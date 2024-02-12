@@ -53,7 +53,7 @@ body {
   position: absolute;
   height: 0;
   width: 0;
-  border-bottom: 15vmin solid #b2e6c6;
+  border-bottom: 15vmin solid #89b874;
   border-left: 24vmin solid transparent;
   border-right: 24vmin solid transparent;
   top: 15vmin;
@@ -64,7 +64,7 @@ body {
   /*left triangle*/
   position: absolute;
   content: "";
-  border-left: 24.5vmin solid #b2e6c6;
+  border-left: 24.5vmin solid #89b874;
   border-bottom: 15vmin solid transparent;
   border-top: 15vmin solid transparent;
   top: -15vmin;
@@ -74,7 +74,7 @@ body {
 .cover::before {
   position: absolute;
   content: "";
-  border-right: 24.5vmin solid #b2e6c6;
+  border-right: 24.5vmin solid #89b874;
   border-bottom: 15vmin solid transparent;
   border-top: 15vmin solid transparent;
   top: -15vmin;
@@ -111,7 +111,7 @@ body {
   opacity: 0.7;
   height: 2vmin;
   width: 48vmin;
-  background: #e8c5d0;
+  background: #bae6a7;
 }
 
 .heart {
